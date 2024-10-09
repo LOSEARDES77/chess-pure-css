@@ -13,6 +13,7 @@
     text-align: center;
     display: table-cell;
     vertical-align: middle;
+    color: #fff;
 }
 .white {
     float: left;
@@ -23,4 +24,5 @@
     text-align: center;
     display: table-cell;
     vertical-align: middle;
+    color: #333;
 }
